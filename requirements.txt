@@ -32,4 +32,4 @@ sortedcontainers==2.1.0
 sympy==1.4
 typing-extensions==3.7.4.1
 uritemplate==3.0.0
-urllib3==1.25.6
+urllib3==1.25.8
